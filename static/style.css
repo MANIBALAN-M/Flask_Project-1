@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(27, 157, 238);
+    text-align: center;
+    font-size: 1000;
+    font-weight: 1000;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: aliceblue;
+}
+.para1{
+    font-size: medium;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.para2{
+    font-size: medium;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    align-items: center;
+}
